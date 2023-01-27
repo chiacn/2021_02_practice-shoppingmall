@@ -33,6 +33,8 @@
 13. 상품 추가하기 
 14. (오류수정) 상품 수정하기 - Ajax의 dataForm객체를 이용한 다중 이미지 수정- 
  
+ 
+https://www.youtube.com/watch?v=z_0s_TtgSJc
 
 
 
